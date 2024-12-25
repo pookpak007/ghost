@@ -1,0 +1,383 @@
+<body>
+    <table class="table table-hover">
+            <thead>
+
+                <tr>
+                    <th scope="col">ลำดับ</th>
+                    <th scope="col">เลขโรงเรียน</th>
+                    <th scope="col">id โรงเรียน</th>
+                    <th scope="col">Host</th>
+                    <th scope="col">Handle</th>
+                </tr>
+
+            </thead>
+        <tbody>
+            <tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032043&amp;year=2566&amp;host=43.229.78.43" target="_blank">#1</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032043&amp;year=2566&amp;host=43.229.78.43" target="_blank">10032043</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032043&amp;year=2566&amp;host=43.229.78.43" target="_blank">[001]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032043&amp;year=2566&amp;host=43.229.78.43" target="_blank">Ip Server =&gt; 43.229.78.43</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032043&amp;year=2566&amp;host=43.229.78.43" target="_blank">โรงเรียนสวนกุหลาบวิทยาลัย ธนบุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1072630447&amp;year=2566&amp;host=43.229.77.105" target="_blank">#2</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1072630447&amp;year=2566&amp;host=43.229.77.105" target="_blank">1072630447</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1072630447&amp;year=2566&amp;host=43.229.77.105" target="_blank">[004]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1072630447&amp;year=2566&amp;host=43.229.77.105" target="_blank">Ip Server =&gt; 43.229.77.105</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1072630447&amp;year=2566&amp;host=43.229.77.105" target="_blank">โรงเรียนกรรณสูตศึกษาลัย</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=21012001&amp;year=2566&amp;host=43.229.78.7" target="_blank">#3</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=21012001&amp;year=2566&amp;host=43.229.78.7" target="_blank">21012001</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=21012001&amp;year=2566&amp;host=43.229.78.7" target="_blank">[006]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=21012001&amp;year=2566&amp;host=43.229.78.7" target="_blank">Ip Server =&gt; 43.229.78.7</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=21012001&amp;year=2566&amp;host=43.229.78.7" target="_blank">โรงเรียนวัดป่าประดู่</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032022&amp;year=2566&amp;host=43.229.78.57" target="_blank">#4</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032022&amp;year=2566&amp;host=43.229.78.57" target="_blank">10032022</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032022&amp;year=2566&amp;host=43.229.78.57" target="_blank">[008]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032022&amp;year=2566&amp;host=43.229.78.57" target="_blank">Ip Server =&gt; 43.229.78.57</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=10032022&amp;year=2566&amp;host=43.229.78.57" target="_blank">โรงเรียนวัดนวลนรดิศ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=88888888&amp;year=2566&amp;host=43.229.78.172" target="_blank">#5</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=88888888&amp;year=2566&amp;host=43.229.78.172" target="_blank">88888888</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=88888888&amp;year=2566&amp;host=43.229.78.172" target="_blank">[88888]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=88888888&amp;year=2566&amp;host=43.229.78.172" target="_blank">Ip Server =&gt; 43.229.78.172</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=88888888&amp;year=2566&amp;host=43.229.78.172" target="_blank">โรงเรียนจีพี เอ็ดดูเคชั่น</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040101001&amp;year=2566&amp;host=43.229.78.8" target="_blank">#6</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040101001&amp;year=2566&amp;host=43.229.78.8" target="_blank">1040101001</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040101001&amp;year=2566&amp;host=43.229.78.8" target="_blank">[017]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040101001&amp;year=2566&amp;host=43.229.78.8" target="_blank">Ip Server =&gt; 43.229.78.8</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040101001&amp;year=2566&amp;host=43.229.78.8" target="_blank">โรงเรียนขอนแก่นวิทยายน</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010210001&amp;year=2566&amp;host=43.229.78.173" target="_blank">#7</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010210001&amp;year=2566&amp;host=43.229.78.173" target="_blank">1010210001</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010210001&amp;year=2566&amp;host=43.229.78.173" target="_blank">[026]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010210001&amp;year=2566&amp;host=43.229.78.173" target="_blank">Ip Server =&gt; 43.229.78.173</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010210001&amp;year=2566&amp;host=43.229.78.173" target="_blank">โรงเรียนสตรีเศรษฐบุตรบำเพ็ญ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1073207002&amp;year=2566&amp;host=43.229.134.36" target="_blank">#8</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1073207002&amp;year=2566&amp;host=43.229.134.36" target="_blank">1073207002</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1073207002&amp;year=2566&amp;host=43.229.134.36" target="_blank">[027]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1073207002&amp;year=2566&amp;host=43.229.134.36" target="_blank">Ip Server =&gt; 43.229.134.36</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1073207002&amp;year=2566&amp;host=43.229.134.36" target="_blank">โรงเรียนกาญจนาภิเษกวิทยาลัย นครปฐม</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010211002&amp;year=2566&amp;host=43.229.78.174" target="_blank">#9</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010211002&amp;year=2566&amp;host=43.229.78.174" target="_blank">1010211002</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010211002&amp;year=2566&amp;host=43.229.78.174" target="_blank">[033]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010211002&amp;year=2566&amp;host=43.229.78.174" target="_blank">Ip Server =&gt; 43.229.78.174</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010211002&amp;year=2566&amp;host=43.229.78.174" target="_blank">โรงเรียนเทพศิรินทร์ร่มเกล้า</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010108002&amp;year=2566&amp;host=43.229.78.162" target="_blank">#10</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010108002&amp;year=2566&amp;host=43.229.78.162" target="_blank">1010108002</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010108002&amp;year=2566&amp;host=43.229.78.162" target="_blank">[034]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010108002&amp;year=2566&amp;host=43.229.78.162" target="_blank">Ip Server =&gt; 43.229.78.162</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010108002&amp;year=2566&amp;host=43.229.78.162" target="_blank">โรงเรียนเทพศิรินทร์</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=5000000035&amp;year=2566&amp;host=43.229.78.174" target="_blank">#11</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=5000000035&amp;year=2566&amp;host=43.229.78.174" target="_blank">5000000035</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=5000000035&amp;year=2566&amp;host=43.229.78.174" target="_blank">[035]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=5000000035&amp;year=2566&amp;host=43.229.78.174" target="_blank">Ip Server =&gt; 43.229.78.174</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=5000000035&amp;year=2566&amp;host=43.229.78.174" target="_blank">วิทยาลัยเทคโนโลยีไออาร์พีซี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010109002&amp;year=2566&amp;host=43.229.78.57" target="_blank">#12</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010109002&amp;year=2566&amp;host=43.229.78.57" target="_blank">1010109002</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010109002&amp;year=2566&amp;host=43.229.78.57" target="_blank">[036]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010109002&amp;year=2566&amp;host=43.229.78.57" target="_blank">Ip Server =&gt; 43.229.78.57</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010109002&amp;year=2566&amp;host=43.229.78.57" target="_blank">โรงเรียนวชิรธรรมสาธิต</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3110021807&amp;year=2566&amp;host=43.229.78.153" target="_blank">#13</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3110021807&amp;year=2566&amp;host=43.229.78.153" target="_blank">3110021807</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3110021807&amp;year=2566&amp;host=43.229.78.153" target="_blank">[038]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3110021807&amp;year=2566&amp;host=43.229.78.153" target="_blank">Ip Server =&gt; 43.229.78.153</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3110021807&amp;year=2566&amp;host=43.229.78.153" target="_blank">โรงเรียนมัธยมประชานิเวศน์</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010126001&amp;year=2566&amp;host=43.229.134.49" target="_blank">#14</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010126001&amp;year=2566&amp;host=43.229.134.49" target="_blank">1010126001</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010126001&amp;year=2566&amp;host=43.229.134.49" target="_blank">[040]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010126001&amp;year=2566&amp;host=43.229.134.49" target="_blank">Ip Server =&gt; 43.229.134.49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010126001&amp;year=2566&amp;host=43.229.134.49" target="_blank">โรงเรียนสุรศักดิ์มนตรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310006&amp;year=2566&amp;host=43.229.78.9" target="_blank">#15</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310006&amp;year=2566&amp;host=43.229.78.9" target="_blank">1014310006</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310006&amp;year=2566&amp;host=43.229.78.9" target="_blank">[042]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310006&amp;year=2566&amp;host=43.229.78.9" target="_blank">Ip Server =&gt; 43.229.78.9</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310006&amp;year=2566&amp;host=43.229.78.9" target="_blank">โรงเรียนวัดใหญ่ชัยมงคล(ภาวนารังสี)</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720162&amp;year=2566&amp;host=43.229.134.46" target="_blank">#16</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720162&amp;year=2566&amp;host=43.229.134.46" target="_blank">1010720162</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720162&amp;year=2566&amp;host=43.229.134.46" target="_blank">[044]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720162&amp;year=2566&amp;host=43.229.134.46" target="_blank">Ip Server =&gt; 43.229.134.46</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720162&amp;year=2566&amp;host=43.229.134.46" target="_blank">โรงเรียนเตรียมอุดมศึกษาพัฒนาการสุวรรณภูมิ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1071106001&amp;year=2566&amp;host=43.229.78.9" target="_blank">#17</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1071106001&amp;year=2566&amp;host=43.229.78.9" target="_blank">1071106001</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1071106001&amp;year=2566&amp;host=43.229.78.9" target="_blank">[047]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1071106001&amp;year=2566&amp;host=43.229.78.9" target="_blank">Ip Server =&gt; 43.229.78.9</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1071106001&amp;year=2566&amp;host=43.229.78.9" target="_blank">โรงเรียนวิสุทธรังษี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010102003&amp;year=2566&amp;host=43.229.78.43" target="_blank">#18</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010102003&amp;year=2566&amp;host=43.229.78.43" target="_blank">1010102003</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010102003&amp;year=2566&amp;host=43.229.78.43" target="_blank">[048]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010102003&amp;year=2566&amp;host=43.229.78.43" target="_blank">Ip Server =&gt; 43.229.78.43</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010102003&amp;year=2566&amp;host=43.229.78.43" target="_blank">โรงเรียนโยธินบูรณะ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310330&amp;year=2566&amp;host=43.229.78.187" target="_blank">#19</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310330&amp;year=2566&amp;host=43.229.78.187" target="_blank">1014310330</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310330&amp;year=2566&amp;host=43.229.78.187" target="_blank">[052]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310330&amp;year=2566&amp;host=43.229.78.187" target="_blank">Ip Server =&gt; 43.229.78.187</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310330&amp;year=2566&amp;host=43.229.78.187" target="_blank">โรงเรียนวัดสว่างอารมณ์</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230157&amp;year=2566&amp;host=43.229.78.16" target="_blank">#20</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230157&amp;year=2566&amp;host=43.229.78.16" target="_blank">1012230157</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230157&amp;year=2566&amp;host=43.229.78.16" target="_blank">[054]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230157&amp;year=2566&amp;host=43.229.78.16" target="_blank">Ip Server =&gt; 43.229.78.16</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230157&amp;year=2566&amp;host=43.229.78.16" target="_blank">โรงเรียนราชวินิต นนทบุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720076&amp;year=2566&amp;host=43.229.78.17" target="_blank">#21</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720076&amp;year=2566&amp;host=43.229.78.17" target="_blank">1010720076</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720076&amp;year=2566&amp;host=43.229.78.17" target="_blank">[056]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720076&amp;year=2566&amp;host=43.229.78.17" target="_blank">Ip Server =&gt; 43.229.78.17</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720076&amp;year=2566&amp;host=43.229.78.17" target="_blank">โรงเรียนศึกษานารี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720146&amp;year=2566&amp;host=43.229.78.162" target="_blank">#22</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720146&amp;year=2566&amp;host=43.229.78.162" target="_blank">1010720146</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720146&amp;year=2566&amp;host=43.229.78.162" target="_blank">[060]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720146&amp;year=2566&amp;host=43.229.78.162" target="_blank">Ip Server =&gt; 43.229.78.162</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720146&amp;year=2566&amp;host=43.229.78.162" target="_blank">โรงเรียนเตรียมอุดมศึกษาน้อมเกล้า</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570164&amp;year=2566&amp;host=43.229.78.69" target="_blank">#23</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570164&amp;year=2566&amp;host=43.229.78.69" target="_blank">1011570164</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570164&amp;year=2566&amp;host=43.229.78.69" target="_blank">[064]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570164&amp;year=2566&amp;host=43.229.78.69" target="_blank">Ip Server =&gt; 43.229.78.69</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570164&amp;year=2566&amp;host=43.229.78.69" target="_blank">โรงเรียนวิสุทธิกษัตรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230150&amp;year=2566&amp;host=43.229.78.153" target="_blank">#24</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230150&amp;year=2566&amp;host=43.229.78.153" target="_blank">1012230150</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230150&amp;year=2566&amp;host=43.229.78.153" target="_blank">[069]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230150&amp;year=2566&amp;host=43.229.78.153" target="_blank">Ip Server =&gt; 43.229.78.153</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230150&amp;year=2566&amp;host=43.229.78.153" target="_blank">โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270177&amp;year=2566&amp;host=43.229.78.16" target="_blank">#25</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270177&amp;year=2566&amp;host=43.229.78.16" target="_blank">1013270177</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270177&amp;year=2566&amp;host=43.229.78.16" target="_blank">[070]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270177&amp;year=2566&amp;host=43.229.78.16" target="_blank">Ip Server =&gt; 43.229.78.16</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270177&amp;year=2566&amp;host=43.229.78.16" target="_blank">โรงเรียนปทุมวิไล</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230158&amp;year=2566&amp;host=43.229.78.6" target="_blank">#26</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230158&amp;year=2566&amp;host=43.229.78.6" target="_blank">1012230158</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230158&amp;year=2566&amp;host=43.229.78.6" target="_blank">[071]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230158&amp;year=2566&amp;host=43.229.78.6" target="_blank">Ip Server =&gt; 43.229.78.6</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230158&amp;year=2566&amp;host=43.229.78.6" target="_blank">โรงเรียนบางบัวทอง</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040051142&amp;year=2566&amp;host=43.229.134.45" target="_blank">#27</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040051142&amp;year=2566&amp;host=43.229.134.45" target="_blank">1040051142</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040051142&amp;year=2566&amp;host=43.229.134.45" target="_blank">[074]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040051142&amp;year=2566&amp;host=43.229.134.45" target="_blank">Ip Server =&gt; 43.229.134.45</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1040051142&amp;year=2566&amp;host=43.229.134.45" target="_blank">โรงเรียนศรีกระนวนวิทยาคม</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310409&amp;year=2566&amp;host=43.229.134.36" target="_blank">#28</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310409&amp;year=2566&amp;host=43.229.134.36" target="_blank">1014310409</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310409&amp;year=2566&amp;host=43.229.134.36" target="_blank">[076]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310409&amp;year=2566&amp;host=43.229.134.36" target="_blank">Ip Server =&gt; 43.229.134.36</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310409&amp;year=2566&amp;host=43.229.134.36" target="_blank">โรงเรียนบางปะอิน(ราชานุเคราะห์ ๑)</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720142&amp;year=2566&amp;host=43.229.134.45" target="_blank">#29</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720142&amp;year=2566&amp;host=43.229.134.45" target="_blank">1010720142</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720142&amp;year=2566&amp;host=43.229.134.45" target="_blank">[077]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720142&amp;year=2566&amp;host=43.229.134.45" target="_blank">Ip Server =&gt; 43.229.134.45</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720142&amp;year=2566&amp;host=43.229.134.45" target="_blank">โรงเรียนราชวินิตบางแคปานขำ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720160&amp;year=2566&amp;host=43.229.78.173" target="_blank">#30</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720160&amp;year=2566&amp;host=43.229.78.173" target="_blank">1010720160</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720160&amp;year=2566&amp;host=43.229.78.173" target="_blank">[082]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720160&amp;year=2566&amp;host=43.229.78.173" target="_blank">Ip Server =&gt; 43.229.78.173</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720160&amp;year=2566&amp;host=43.229.78.173" target="_blank">โรงเรียนฤทธิยะวรรณาลัย2</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270022&amp;year=2566&amp;host=43.229.78.153" target="_blank">#31</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270022&amp;year=2566&amp;host=43.229.78.153" target="_blank">1013270022</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270022&amp;year=2566&amp;host=43.229.78.153" target="_blank">[090]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270022&amp;year=2566&amp;host=43.229.78.153" target="_blank">Ip Server =&gt; 43.229.78.153</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270022&amp;year=2566&amp;host=43.229.78.153" target="_blank">โรงเรียนวัดนาวง</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3012200701&amp;year=2566&amp;host=43.229.134.36" target="_blank">#32</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3012200701&amp;year=2566&amp;host=43.229.134.36" target="_blank">3012200701</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3012200701&amp;year=2566&amp;host=43.229.134.36" target="_blank">[103]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3012200701&amp;year=2566&amp;host=43.229.134.36" target="_blank">Ip Server =&gt; 43.229.134.36</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=3012200701&amp;year=2566&amp;host=43.229.134.36" target="_blank">โรงเรียนอนุบาลเทศบาลตำบลบางม่วง</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720053&amp;year=2566&amp;host=43.229.78.49" target="_blank">#33</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720053&amp;year=2566&amp;host=43.229.78.49" target="_blank">1010720053</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720053&amp;year=2566&amp;host=43.229.78.49" target="_blank">[110]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720053&amp;year=2566&amp;host=43.229.78.49" target="_blank">Ip Server =&gt; 43.229.78.49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720053&amp;year=2566&amp;host=43.229.78.49" target="_blank">โรงเรียนเตรียมอุดมศึกษาสุวินทวงศ์</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720150&amp;year=2566&amp;host=43.229.134.49" target="_blank">#34</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720150&amp;year=2566&amp;host=43.229.134.49" target="_blank">1010720150</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720150&amp;year=2566&amp;host=43.229.134.49" target="_blank">[112]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720150&amp;year=2566&amp;host=43.229.134.49" target="_blank">Ip Server =&gt; 43.229.134.49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720150&amp;year=2566&amp;host=43.229.134.49" target="_blank">โรงเรียนนวมินทราชินูทิศ เบญจมราชาลัย</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720075&amp;year=2566&amp;host=43.229.77.105" target="_blank">#35</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720075&amp;year=2566&amp;host=43.229.77.105" target="_blank">1010720075</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720075&amp;year=2566&amp;host=43.229.77.105" target="_blank">[115]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720075&amp;year=2566&amp;host=43.229.77.105" target="_blank">Ip Server =&gt; 43.229.77.105</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720075&amp;year=2566&amp;host=43.229.77.105" target="_blank">โรงเรียนสามเสนวิทยาลัย</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310322&amp;year=2566&amp;host=43.229.77.224" target="_blank">#36</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310322&amp;year=2566&amp;host=43.229.77.224" target="_blank">1014310322</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310322&amp;year=2566&amp;host=43.229.77.224" target="_blank">[119]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310322&amp;year=2566&amp;host=43.229.77.224" target="_blank">Ip Server =&gt; 43.229.77.224</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310322&amp;year=2566&amp;host=43.229.77.224" target="_blank">โรงเรียนวัดธรรมจริยา</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310324&amp;year=2566&amp;host=43.229.134.45" target="_blank">#37</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310324&amp;year=2566&amp;host=43.229.134.45" target="_blank">1014310324</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310324&amp;year=2566&amp;host=43.229.134.45" target="_blank">[123]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310324&amp;year=2566&amp;host=43.229.134.45" target="_blank">Ip Server =&gt; 43.229.134.45</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310324&amp;year=2566&amp;host=43.229.134.45" target="_blank">โรงเรียนพระอินทร์ศึกษา (กล่อมสกุลอุทิศ)</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1362016101&amp;year=2566&amp;host=43.229.134.49" target="_blank">#38</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1362016101&amp;year=2566&amp;host=43.229.134.49" target="_blank">1362016101</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1362016101&amp;year=2566&amp;host=43.229.134.49" target="_blank">[128]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1362016101&amp;year=2566&amp;host=43.229.134.49" target="_blank">Ip Server =&gt; 43.229.134.49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1362016101&amp;year=2566&amp;host=43.229.134.49" target="_blank">วิทยาลัยเทคนิคกำแพงเพชร</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720092&amp;year=2566&amp;host=43.229.134.37" target="_blank">#39</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720092&amp;year=2566&amp;host=43.229.134.37" target="_blank">1010720092</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720092&amp;year=2566&amp;host=43.229.134.37" target="_blank">[129]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720092&amp;year=2566&amp;host=43.229.134.37" target="_blank">Ip Server =&gt; 43.229.134.37</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720092&amp;year=2566&amp;host=43.229.134.37" target="_blank">โรงเรียนสุวรรณารามวิทยาคม</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1354016101&amp;year=2566&amp;host=43.229.78.71" target="_blank">#40</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1354016101&amp;year=2566&amp;host=43.229.78.71" target="_blank">1354016101</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1354016101&amp;year=2566&amp;host=43.229.78.71" target="_blank">[130]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1354016101&amp;year=2566&amp;host=43.229.78.71" target="_blank">Ip Server =&gt; 43.229.78.71</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1354016101&amp;year=2566&amp;host=43.229.78.71" target="_blank">วิทยาลัยเทคนิคแพร่</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230162&amp;year=2566&amp;host=43.229.78.69" target="_blank">#41</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230162&amp;year=2566&amp;host=43.229.78.69" target="_blank">1012230162</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230162&amp;year=2566&amp;host=43.229.78.69" target="_blank">[133]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230162&amp;year=2566&amp;host=43.229.78.69" target="_blank">Ip Server =&gt; 43.229.78.69</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230162&amp;year=2566&amp;host=43.229.78.69" target="_blank">โรงเรียนปากเกร็ด</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230166&amp;year=2566&amp;host=43.229.134.64" target="_blank">#42</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230166&amp;year=2566&amp;host=43.229.134.64" target="_blank">1012230166</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230166&amp;year=2566&amp;host=43.229.134.64" target="_blank">[143]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230166&amp;year=2566&amp;host=43.229.134.64" target="_blank">Ip Server =&gt; 43.229.134.64</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230166&amp;year=2566&amp;host=43.229.134.64" target="_blank">โรงเรียนนวมินทราชินูทิศ หอวัง นนทบุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720071&amp;year=2566&amp;host=43.229.78.71" target="_blank">#43</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720071&amp;year=2566&amp;host=43.229.78.71" target="_blank">1010720071</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720071&amp;year=2566&amp;host=43.229.78.71" target="_blank">[144]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720071&amp;year=2566&amp;host=43.229.78.71" target="_blank">Ip Server =&gt; 43.229.78.71</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720071&amp;year=2566&amp;host=43.229.78.71" target="_blank">โรงเรียนรัตนโกสินทร์สมโภชลาดกระบัง</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720087&amp;year=2566&amp;host=43.229.134.37" target="_blank">#44</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720087&amp;year=2566&amp;host=43.229.134.37" target="_blank">1010720087</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720087&amp;year=2566&amp;host=43.229.134.37" target="_blank">[146]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720087&amp;year=2566&amp;host=43.229.134.37" target="_blank">Ip Server =&gt; 43.229.134.37</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720087&amp;year=2566&amp;host=43.229.134.37" target="_blank">โรงเรียนโพธิสารพิทยากร</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720149&amp;year=2566&amp;host=43.229.78.6" target="_blank">#45</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720149&amp;year=2566&amp;host=43.229.78.6" target="_blank">1010720149</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720149&amp;year=2566&amp;host=43.229.78.6" target="_blank">[149]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720149&amp;year=2566&amp;host=43.229.78.6" target="_blank">Ip Server =&gt; 43.229.78.6</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720149&amp;year=2566&amp;host=43.229.78.6" target="_blank">โรงเรียนนวมินทราชินูทิศ บดินทรเดชา</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720155&amp;year=2566&amp;host=43.229.134.37" target="_blank">#46</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720155&amp;year=2566&amp;host=43.229.134.37" target="_blank">1010720155</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720155&amp;year=2566&amp;host=43.229.134.37" target="_blank">[150]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720155&amp;year=2566&amp;host=43.229.134.37" target="_blank">Ip Server =&gt; 43.229.134.37</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720155&amp;year=2566&amp;host=43.229.134.37" target="_blank">โรงเรียนวัดพุทธบูชา</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1021470224&amp;year=2566&amp;host=43.229.78.71" target="_blank">#47</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1021470224&amp;year=2566&amp;host=43.229.78.71" target="_blank">1021470224</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1021470224&amp;year=2566&amp;host=43.229.78.71" target="_blank">[151]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1021470224&amp;year=2566&amp;host=43.229.78.71" target="_blank">Ip Server =&gt; 43.229.78.71</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1021470224&amp;year=2566&amp;host=43.229.78.71" target="_blank">โรงเรียนระยองวิทยาคม</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720069&amp;year=2566&amp;host=43.229.78.71" target="_blank">#48</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720069&amp;year=2566&amp;host=43.229.78.71" target="_blank">1010720069</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720069&amp;year=2566&amp;host=43.229.78.71" target="_blank">[152]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720069&amp;year=2566&amp;host=43.229.78.71" target="_blank">Ip Server =&gt; 43.229.78.71</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720069&amp;year=2566&amp;host=43.229.78.71" target="_blank">โรงเรียนพรตพิทยพยัต</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1017610141&amp;year=2566&amp;host=43.229.77.221" target="_blank">#49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1017610141&amp;year=2566&amp;host=43.229.77.221" target="_blank">1017610141</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1017610141&amp;year=2566&amp;host=43.229.77.221" target="_blank">[153]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1017610141&amp;year=2566&amp;host=43.229.77.221" target="_blank">Ip Server =&gt; 43.229.77.221</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1017610141&amp;year=2566&amp;host=43.229.77.221" target="_blank">โรงเรียนสิงห์บุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1039760327&amp;year=2566&amp;host=43.229.77.105" target="_blank">#50</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1039760327&amp;year=2566&amp;host=43.229.77.105" target="_blank">1039760327</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1039760327&amp;year=2566&amp;host=43.229.77.105" target="_blank">[155]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1039760327&amp;year=2566&amp;host=43.229.77.105" target="_blank">Ip Server =&gt; 43.229.77.105</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1039760327&amp;year=2566&amp;host=43.229.77.105" target="_blank">โรงเรียนหนองบัวพิทยาคาร</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270183&amp;year=2566&amp;host=43.229.78.187" target="_blank">#51</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270183&amp;year=2566&amp;host=43.229.78.187" target="_blank">1013270183</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270183&amp;year=2566&amp;host=43.229.78.187" target="_blank">[160]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270183&amp;year=2566&amp;host=43.229.78.187" target="_blank">Ip Server =&gt; 43.229.78.187</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1013270183&amp;year=2566&amp;host=43.229.78.187" target="_blank">โรงเรียนสวนกุหลาบวิทยาลัย รังสิต</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720124&amp;year=2566&amp;host=43.229.77.224" target="_blank">#52</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720124&amp;year=2566&amp;host=43.229.77.224" target="_blank">1010720124</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720124&amp;year=2566&amp;host=43.229.77.224" target="_blank">[161]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720124&amp;year=2566&amp;host=43.229.77.224" target="_blank">Ip Server =&gt; 43.229.77.224</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1010720124&amp;year=2566&amp;host=43.229.77.224" target="_blank">โรงเรียนราชดำริ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1070480358&amp;year=2566&amp;host=43.229.78.49" target="_blank">#53</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1070480358&amp;year=2566&amp;host=43.229.78.49" target="_blank">1070480358</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1070480358&amp;year=2566&amp;host=43.229.78.49" target="_blank">[162]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1070480358&amp;year=2566&amp;host=43.229.78.49" target="_blank">Ip Server =&gt; 43.229.78.49</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1070480358&amp;year=2566&amp;host=43.229.78.49" target="_blank">โรงเรียนเบญจมราชูทิศ ราชบุรี</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570152&amp;year=2566&amp;host=43.229.78.6" target="_blank">#54</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570152&amp;year=2566&amp;host=43.229.78.6" target="_blank">1011570152</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570152&amp;year=2566&amp;host=43.229.78.6" target="_blank">[163]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570152&amp;year=2566&amp;host=43.229.78.6" target="_blank">Ip Server =&gt; 43.229.78.6</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1011570152&amp;year=2566&amp;host=43.229.78.6" target="_blank">โรงเรียนเทพศิรินทร์ สมุทรปราการ</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1473021101&amp;year=2566&amp;host=43.229.77.221" target="_blank">#55</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1473021101&amp;year=2566&amp;host=43.229.77.221" target="_blank">1473021101</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1473021101&amp;year=2566&amp;host=43.229.77.221" target="_blank">[164]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1473021101&amp;year=2566&amp;host=43.229.77.221" target="_blank">Ip Server =&gt; 43.229.77.221</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1473021101&amp;year=2566&amp;host=43.229.77.221" target="_blank">โรงเรียนสาธิตมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1090550513&amp;year=2566&amp;host=43.229.78.9" target="_blank">#56</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1090550513&amp;year=2566&amp;host=43.229.78.9" target="_blank">1090550513</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1090550513&amp;year=2566&amp;host=43.229.78.9" target="_blank">[165]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1090550513&amp;year=2566&amp;host=43.229.78.9" target="_blank">Ip Server =&gt; 43.229.78.9</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1090550513&amp;year=2566&amp;host=43.229.78.9" target="_blank">โรงเรียนหาดใหญ่วิทยาลัย</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310208&amp;year=2566&amp;host=43.229.78.174" target="_blank">#57</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310208&amp;year=2566&amp;host=43.229.78.174" target="_blank">1014310208</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310208&amp;year=2566&amp;host=43.229.78.174" target="_blank">[166]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310208&amp;year=2566&amp;host=43.229.78.174" target="_blank">Ip Server =&gt; 43.229.78.174</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310208&amp;year=2566&amp;host=43.229.78.174" target="_blank">โรงเรียนเชียงรากน้อย (ทรัพย์-สังเวียน เหราบัตย์อนุสรณ์)</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230165&amp;year=2566&amp;host=43.229.77.224" target="_blank">#58</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230165&amp;year=2566&amp;host=43.229.77.224" target="_blank">1012230165</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230165&amp;year=2566&amp;host=43.229.77.224" target="_blank">[167]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230165&amp;year=2566&amp;host=43.229.77.224" target="_blank">Ip Server =&gt; 43.229.77.224</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1012230165&amp;year=2566&amp;host=43.229.77.224" target="_blank">โรงเรียนโพธินิมิตวิทยาคม</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310066&amp;year=2566&amp;host=43.229.77.224" target="_blank">#59</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310066&amp;year=2566&amp;host=43.229.77.224" target="_blank">1014310066</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310066&amp;year=2566&amp;host=43.229.77.224" target="_blank">[168]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310066&amp;year=2566&amp;host=43.229.77.224" target="_blank">Ip Server =&gt; 43.229.77.224</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=1014310066&amp;year=2566&amp;host=43.229.77.224" target="_blank">โรงเรียนนครหลวง (พิบูลประเสริฐวิทย์)</a></td>
+            </tr><tr>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=7014060301&amp;year=2566&amp;host=43.229.77.221" target="_blank">#60</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=7014060301&amp;year=2566&amp;host=43.229.77.221" target="_blank">7014060301</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=7014060301&amp;year=2566&amp;host=43.229.77.221" target="_blank">[171]</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=7014060301&amp;year=2566&amp;host=43.229.77.221" target="_blank">Ip Server =&gt; 43.229.77.221</a></td>
+                <td><a href="http://43.229.78.172/sambhawesi/homeless_ghost_school_list_usertype.php?school_code=7014060301&amp;year=2566&amp;host=43.229.77.221" target="_blank">โรงเรียนวัดนิเวศธรรมประวัติ</a></td>
+            </tr>            
+        </tbody>
+    </table>
+
+<footer>
+
+</footer>
+
+</body>

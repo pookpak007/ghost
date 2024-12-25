@@ -1,0 +1,3 @@
+rEW3CpSee4w3Y03tRIUJenFtRBrhgcQcTCUltGLIFOmไลน์ส่วสตัว
+4LrUpqd6RjEBwsagbCcPPkt4h5hA8Sg63xJ58dWW8nVไลน์กลุ่ม
+$row['school_name']." : ".$rowcomein['percen']."%"

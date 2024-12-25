@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP Camera Streaming</title>
+</head>
+<body>
+    <h1>IP Camera Streaming</h1>
+    <video id="videoPlayer" width="640" height="480" controls autoplay></video>
+	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02C3ELtoimUJGsAD9uT2x1H7G1erbsbaUNx7DMSUkwB7UzxwzH3nPrTzC2hp1f6qrl%26id%3D100095141815237&show_text=true&width=500&is_preview=true" width="250" height="708" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    <script>
+        // Replace 'your_camera_ip' with the actual IP address of your camera
+        const videoUrl = 'https://youtu.be/vBgwVFIom-Q';
+
+        const videoPlayer = document.getElementById('videoPlayer');
+
+        // Set the source of the video element to the IP camera stream URL
+        videoPlayer.src = videoUrl;
+    </script>
+</body>
+</html>
